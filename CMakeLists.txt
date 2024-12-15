@@ -14,7 +14,7 @@ pkg_check_modules(MAGICK REQUIRED Magick++)
 
 # Sources
 set (SOURCES
-     src/asciigen.cpp
+     ./asciigen.cpp
 )
 
 # Adding executable
